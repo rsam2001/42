@@ -63,10 +63,9 @@ void	ft_putnbr_base(int nbr, char *base)
 		}
 	}
 }
-/*
+
 int main()
 {
-	ft_putnbr_base(329832081, "01");
+	ft_putnbr_base(64, "0123456789abcdef");
 	return 0;
 }
-*/
